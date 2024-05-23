@@ -1,0 +1,26 @@
+FORWARD:
+PinMode (12, 10)
+
+REVERSE:
+PinMode (11, 9)
+
+LEFT:
+PinMode (10, 11)
+
+RIGHT:
+PinMode (12, 9) 
+
+FORWARD LIGHT:
+PinMode (7)
+
+BACKWARD LIGHT:
+PinMode(6)
+
+HEADLIGHT:
+PinMode(13)
+
+---------------------
+
+L.F(12)    R.F(10)
+
+L.B(11)   R.B(9)
